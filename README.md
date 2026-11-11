@@ -160,3 +160,5 @@ Thanks to **Weblate** for providing free hosting of open source projects for **R
 ## License
 
 GNU GPL v3.0 © [Read You](https://github.com/ReadYouApp/ReadYou/blob/main/LICENSE)
+
+<!-- ci trigger 2026-11-11 -->
